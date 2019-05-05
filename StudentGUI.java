@@ -142,7 +142,7 @@ public class StudentGUI extends JFrame  implements ActionListener{
 		 /*con1.add(b1,BorderLayout.SOUTH);
 		 con1.add(b2,BorderLayout.SOUTH);*/
 		 p1.add(con1); 
-
+                                 //12345432
 		
 		   
 		 Container con2=new Container(); 
